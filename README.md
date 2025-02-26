@@ -45,6 +45,15 @@ A **Use Case Diagram** visually represents how users, doctors, and admins intera
 3. **Create a new branch** for your feature.  
 4. **Make changes & commit** with a descriptive message.  
 5. **Push** the branch to GitHub.  
-6. **Submit a pull request** for review.  
+6. **Submit a pull request** for review.
+
+👥 Contributors
+Project Lead:
+Sabbir Hossain (1731334042) - Database Creation, Connection & Maintenance
+Team Members:
+Md. Sifaat (1632285042)
+Md. Imran Hasan (1711460042)
+Tanjiba Nowrin (1721461042)
+
 
 
