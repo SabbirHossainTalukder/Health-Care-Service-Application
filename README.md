@@ -27,7 +27,7 @@ The **Health Care Service Application** is a digital platform that connects pati
 
 ## 📌 Use Case Diagram  
 A **Use Case Diagram** visually represents how users, doctors, and admins interact with the system.  
-📎 *(Attach Use Case Diagram Image Here)*  
+https://github.com/SabbirHossainTalukder/Health-Care-Service-Application/blob/main/Use%20Case%20Diagram.png
 
 ## 🛠️ Tech Stack (To Be Decided)  
 - **Frontend:** React  
