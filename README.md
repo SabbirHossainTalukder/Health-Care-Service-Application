@@ -49,11 +49,13 @@ A **Use Case Diagram** visually represents how users, doctors, and admins intera
 
 ## 👥 Contributors
 **Project Lead**:
-Sabbir Hossain (1731334042) - Database Creation, Connection & Maintenance
+- **Sabbir Hossain** (1731334042) - Database Creation, Connection & Maintenance
+
+ 
 **Team Members**:
-Md. Sifaat (1632285042)
-Md. Imran Hasan (1711460042)
-Tanjiba Nowrin (1721461042)
+- **Md. Sifaat** (1632285042)
+- **Md. Imran Hasan** (1711460042)
+- **Tanjiba Nowrin** (1721461042)
 
 
 
